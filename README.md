@@ -32,11 +32,23 @@ To help Olist gain better insights into their e-commerce platform and optimize a
 WE JOIN THE TABLE AS REQUIRED
 
 WE check for dupplicate 
+
 --In most database systems, the primary key of a table is used to uniquely identify each row in that table. Therefore, the primary key column (often named 'order_id') is expected to have unique values for each row, and duplicate values are not allowed.
 
 Having duplicate values in the primary key column would violate the fundamental principle of data integrity and could lead to
 inconsistencies and errors in the database. Each primary key value serves as a unique identifier for a specific record, and duplicates
 would create ambiguity in identifying and accessing individual records.
 
+We deleted the duplicates, checked for nulls and data types
+
+Now let compute for the total revenue. Total Revenue = (Price of the Product + Shipping Fee) * payment_sequential
+
+This will account for cases where payments are made or multiple payments are associated with a single transaction.
+
+Now let compute for the total revenue. Total Revenue = (Price of the Product + Shipping Fee) * payment_sequential
+
+This will account for cases where payments are made or multiple payments are associated with a single transaction.
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/153fb003-0e56-4b97-addb-4a5f10e28dc2)
 
 
