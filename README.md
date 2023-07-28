@@ -51,4 +51,25 @@ This will account for cases where payments are made or multiple payments are ass
 
 ![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/153fb003-0e56-4b97-addb-4a5f10e28dc2)
 
+# TO ANALYZE HOW THE TOTAL REVENUE HAS CHANGED OVER TIME, WE'LL NEED TO CONSIDER THE 'TIME' COMPONENT IN OUR DATASET
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/d61bff5e-651b-4ba7-b3ab-ffbb22de1542)
+
+#  INSIDE THIS PROJECT, 13 QUESTIONS WERE ANSWERED BUT I WILL HIGHLIGHT MAJOR KPI HERE
+
+# WHAT ARE THE MOST POPULAR PRODUCT CATEGORIES ON OLIST
+
+Top 10, ![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/04df71fb-45d7-4cc3-bd26-2ac03d0f8e37)
+
+# WHAT IS THE AVERAGE ORDER VALUE (AOV) ON OLIST, AND HOW DOES THIS VARY BY  PAYMENT METHOD?
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/efeabbe3-fe78-43b7-92a8-e957088bc036)
+
+# HOW DOES THIS VARY BY PAYMENT METHOD? 
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/d1faafa6-f161-40fc-87b2-1ad89d2eac53)
+
+
+
+
 
