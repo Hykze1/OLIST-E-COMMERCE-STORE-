@@ -59,7 +59,9 @@ This will account for cases where payments are made or multiple payments are ass
 
 # WHAT ARE THE MOST POPULAR PRODUCT CATEGORIES ON OLIST
 
-Top 10, ![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/04df71fb-45d7-4cc3-bd26-2ac03d0f8e37)
+Top 10,
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/04df71fb-45d7-4cc3-bd26-2ac03d0f8e37)
 
 # WHAT IS THE AVERAGE ORDER VALUE (AOV) ON OLIST, AND HOW DOES THIS VARY BY  PAYMENT METHOD?
 
@@ -68,6 +70,94 @@ Top 10, ![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960
 # HOW DOES THIS VARY BY PAYMENT METHOD? 
 
 ![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/d1faafa6-f161-40fc-87b2-1ad89d2eac53)
+
+# HOW MANY SELLERS ARE ACTIVE ON OLIST
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/33ef818f-b868-4fb0-b632-e6fadd5fbaea)
+
+# HOW DOES THIS NUMBER CHANGE OVER TIME?
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/ead77a88-67df-4bb2-81df-a96a253170e3)
+
+# LET ANALYZE SALES PERFORMANCE BASED ON SELLER RATINGS
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/049260aa-47c8-445f-a357-c36fbceb0f20)
+
+# WHAT IS THE AVERAGE CUSTOMER RATING FOR PRODUCTS SOLD ON OLIST
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/2a1a0540-6f5d-4b05-9c52-4d01169a2b86)
+
+# HOW DOES THIS IMPACT SALES PERFORMANCE? 
+
+Analyzing the impact on sales performance:WE can then further analyze the relationship between average product rating and sales 
+performance by dividing the products into categories based on their ratings (e.g., high-rated, medium-rated, low-rated) 
+and calculate sales performance metrics for each
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/817e801f-d5be-4a67-91e5-6e9b9f9da5ed)
+
+# WHAT IS THE AVERAGE ORDER CANCELLATION RATE ON OLIST, AND HOW DOES THIS IMPACT SELLER PERFORMANCE
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/16a7db98-64c1-44d1-9f71-1e2e1c780408)
+
+# WHAT ARE THE TOP-SELLING PRODUCTS ON OLIST, AND HOW HAVE THEIR SALES TRENDS CHANGED OVER TIME?
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/d59d1b9a-4366-489d-9b17-d54809054c62)
+
+# WHICH PRODUCT CATEGORIES HAVE THE HIGHEST PROFIT MARGINS ON OLIST, AND HOW CAN THE COMPANY INCREASE PROFITABILITY 
+ACROSS DIFFERENT CATEGORIES?
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/182cf6cd-72eb-4974-8cd1-0fd212addab5)
+
+# How can the company increase profitability across different categories? 
+
+Pricing Strategies: Analyze pricing for products in different categories. If the profit margins are low, consider adjusting prices based on market demand and competitive analysis.
+
+Cost Optimization: Look for opportunities to optimize the cost of goods sold and shipping costs without compromising product quality and customer experience.
+
+Upselling and Cross-selling: Encourage customers to purchase additional items (upselling) or related products (cross-selling) to increase the average order value and overall profitability.
+
+Marketing and Promotion: Invest in targeted marketing campaigns to drive higher sales for high-profit margin product categories.
+
+Customer Retention: Focus on customer retention strategies to encourage repeat purchases, as acquiring new customers can be more expensive
+
+CONCLUSION :
+It's important to conduct a thorough analysis of each product category and consider the specific dynamics of your e-commerce business. 
+Data-driven decision-making and regular monitoring of key performance indicators will be essential to increasing profitability across 
+different categories. Additionally, customer feedback and market research can provide valuable insights to guide your strategies for growth 
+and profitability.
+
+# KPI 1: Common Payment Method
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/4c3a13dc-a374-4abb-a13a-f7ffd41813b2)
+
+# KPI 2 : Customer Rating Vs Sales
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/7729cf3a-c9ed-42ea-bf47-cc41d0179c70)
+
+# KPI 3: Top SellingProduct
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/d9e41067-1491-4b6a-9ad1-874fecf817a6)
+
+# KPI 4: High Profit Margin
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/55e2eb76-fff7-4baf-a5bf-ba5943552fd7)
+
+# KPI 5: Total Order By Month
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/9ce73925-ca19-4e8a-aa0e-708eafe641b5)
+
+# FULL DASHBOARD
+
+![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/ac97ae93-f541-4ca4-8e32-f44692c65c1f)
+
+
+
+
+
+
+
+
+
 
 
 
