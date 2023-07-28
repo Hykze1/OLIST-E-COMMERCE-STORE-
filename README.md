@@ -13,12 +13,19 @@ To help Olist gain better insights into their e-commerce platform and optimize a
 
 
 [olist_customers_dataset.xlsx](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/files/12190322/olist_customers_dataset.xlsx)
+
 [olist_order_items_dataset.xlsx](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/files/12190323/olist_order_items_dataset.xlsx)
+
 [olist_order_payments_dataset.xlsx](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/files/12190324/olist_order_payments_dataset.xlsx)
+
 [olist_order_reviews_dataset.xlsx](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/files/12190325/olist_order_reviews_dataset.xlsx)
+
 [olist_orders_dataset.xlsx](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/files/12190326/olist_orders_dataset.xlsx)
+
 [olist_product_reviews_dataset.xlsx](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/files/12190327/olist_product_reviews_dataset.xlsx)
+
 [olist_sellers_dataset (1).xlsx](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/files/12190328/olist_sellers_dataset.1.xlsx)
+
 [product_category_name_translation.xlsx](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/files/12190329/product_category_name_translation.xlsx)
 
 
