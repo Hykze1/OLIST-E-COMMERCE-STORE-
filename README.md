@@ -130,6 +130,19 @@ and profitability.
 
 ![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/4c3a13dc-a374-4abb-a13a-f7ffd41813b2)
 
+By this chat it is observed that Olist platform  heavily relies on credit card payments, there are several key pieces of advice that can help improve the overall customer experience, security, and trust on your platform. Here are some recommendations:
+
+1. Enhance Payment Security: Ensure that your platform is Payment Card Industry Data Security Standard (PCI DSS) compliant. Use encryption technologies and secure sockets layer (SSL) certificates to protect sensitive information during transactions. Regularly update your security protocols and conduct vulnerability assessments to identify and address potential weaknesses.
+
+2. Offer Multiple Payment Options: While credit cards are popular, not all customers may prefer them or have access to them. Offer a variety of payment options, such as debit cards, digital wallets (e.g., Apple Pay, Google Pay), bank transfers, and even cash on delivery (COD) where feasible. This gives customers more flexibility and convenience.
+
+3. Streamlined Checkout Process: Simplify the checkout process to minimize cart abandonment. Eliminate unnecessary steps, offer guest checkouts, and implement autofill features to reduce the effort required from customers during the payment process.
+
+4. Mobile Optimization: Ensure that your e-commerce platform is fully optimized for mobile devices. Many customers shop on their smartphones, and a seamless mobile experience will increase conversions.
+
+INCLUSION:
+Customer Support: Provide excellent customer support to address any payment-related issues or concerns promptly. Offer multiple channels for customer support, such as live chat, email, and phone, to cater to various preferences.
+
 # KPI 2 : Customer Rating Vs Sales
 
 ![image](https://github.com/Hykze1/OLIST-E-COMMERCE-STORE-/assets/100960483/7729cf3a-c9ed-42ea-bf47-cc41d0179c70)
